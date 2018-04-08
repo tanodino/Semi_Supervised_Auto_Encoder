@@ -9,7 +9,6 @@ from sklearn.preprocessing import MinMaxScaler
 
 import keras
 
-import scipy.io as sio
 import numpy as np
 import sys
 import os
